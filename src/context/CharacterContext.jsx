@@ -1,3 +1,4 @@
+// In this file, I created a global context to manage characters, loading state, search, pagination, and filtered data across the app.
 import { createContext, useState, useEffect } from 'react';
 import axios from 'axios';
 
