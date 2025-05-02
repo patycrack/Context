@@ -24,3 +24,4 @@ I implemented a loading overlay with a spinning image to enhance the user experi
 
 ```bash
 npm install
+npm run dev
