@@ -1,3 +1,4 @@
+// In this file, I implemented the main app structure with a loading overlay, header, character grid, and footer, using data from the global context.
 import { useContext, useState, useEffect } from 'react';
 import { CharacterContext } from './context/CharacterContext';
 import CharacterCard from './components/CharacterCard';
