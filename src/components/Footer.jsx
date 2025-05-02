@@ -1,3 +1,4 @@
+// In this component, I render pagination buttons based on the total number of pages from context.
 import { useContext } from 'react';
 import { CharacterContext } from '../context/CharacterContext';
 
