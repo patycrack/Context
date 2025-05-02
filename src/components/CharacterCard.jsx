@@ -1,3 +1,4 @@
+// React component that renders a styled character card with image, name, status, species, and location.
 function CharacterCard({ character }) {
   return (
     <div className="bg-white rounded-lg shadow-lg overflow-hidden transform hover:scale-105 hover:shadow-xl transition duration-300 text-center">
